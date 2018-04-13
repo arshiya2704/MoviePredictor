@@ -1,6 +1,6 @@
-# MoviePredictor
+# MovieRatingPredictor
 
-Movie Predictor System using technologies:
+Movie Rating Predictor System using technologies:
 
 • ALS(Matrix Factorization) </br>
 • PySpark </br>
